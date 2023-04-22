@@ -1,0 +1,26 @@
+.container-fluid{
+    position: sticky;
+}
+#info h3{
+    margin: auto;
+    color: darkblue;
+    padding: auto 10px;
+}
+#info h6{
+    color: rgb(29, 7, 171);
+    padding:auto 10px;
+    
+}
+#infocont{
+    margin:auto;
+    background-color: aliceblue;
+    border-radius: 5px;
+    border: solid 2px black;
+    width: 1500px;
+    height: 123px;
+    font-size: 30px;
+}
+.connection{
+  display: inline-block;
+  width:100%;
+}
